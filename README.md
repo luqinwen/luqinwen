@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Golang
 - 🌱 Go/Redis/Docker/K8s
-- 📫 How to reach me: [foxmail](mailto:embiid99@foxmail.com)
+- 📫 How to reach me: [embiid99@foxmail.com](mailto:embiid99@foxmail.com)
 - ✍️ [知识星球《拿个offer》创始人](https://wx.zsxq.com/dweb2/index/group/88885515545252)
 - ✍️ [CSDN:NUS Coders](https://blog.csdn.net/Suppress_warn?spm=1010.2135.3001.5421)
 - ✍️ 公众号:NUS Coders

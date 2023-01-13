@@ -1,4 +1,4 @@
-# Hi there 👋, this is LU QIN WEN ✨.
+# Hi there 👋, this is Qinwen ✨.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=luqinwen.luqinwen)
 

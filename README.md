@@ -15,6 +15,6 @@
   - [NAT穿透](https://blog.csdn.net/Suppress_warn/article/details/128737402?spm=1001.2014.3001.5501)
 - ✍️ [知乎:百里酚蓝](https://www.zhihu.com/people/lu-wen-jian-34)
 - ✍️ 公众号:NUS Coders
-  - [东南亚某云服务安全厂商work flow优化（1）](https://mp.weixin.qq.com/s__biz=Mzg3Mjg4NjQ1Mw==&mid=2247483668&idx=1&sn=5ed9fa1b848593078935265575bd96b7&chksm=cee938cef99eb1d8b0551f3e2475f3e0ccd8d2120b5c0dae7bc840ce98146510b1dbdded3d94&token=1998446597&lang=zh_CN#rd) 
+  - [东南亚某云服务安全厂商work flow优化（1）](https://mp.weixin.qq.com/s/2xiPWUhrWDuk72CC6e6Xng)
 - ✍️ [牛客网:工大Coders](https://www.nowcoder.com/users/308274097)
 - ✍️ [Leetcode: Aloha99](https://leetcode.cn/u/gu-yong-u/) 

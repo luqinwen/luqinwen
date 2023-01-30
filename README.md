@@ -6,6 +6,7 @@
 - 🌱 Go/Redis/Docker/K8S/区块链/信息安全
 - 📫 How to reach me: [embiid99@foxmail.com](mailto:embiid99@foxmail.com)
 - ✍️ [知识星球《拿个offer》创始人](https://wx.zsxq.com/dweb2/index/group/88885515545252)，专栏《Golang观止》、《网络观止》作者
+  - [星球简介](https://www.zhihu.com/column/c_1603329436610514944)
 - ✍️ [牛客网:NUS_Coders](https://www.nowcoder.com/users/58988420)
   - [深入理解DNS(2)](https://www.nowcoder.com/issue/tutorial?zhuanlanId=MqBv80&uuid=736827af0e834aa68593876735c8b893)
   - [阿里golang面试复盘](https://www.nowcoder.com/discuss/443739989340426240)

@@ -16,6 +16,7 @@
   - [深入理解IAM(2)](https://blog.csdn.net/Suppress_warn/article/details/128307197?spm=1001.2014.3001.5501)
   - [NAT穿透](https://blog.csdn.net/Suppress_warn/article/details/128737402?spm=1001.2014.3001.5501)
 - ✍️ [知乎:百里酚蓝](https://www.zhihu.com/people/lu-wen-jian-34)
+  - [斯坦福密码学学习笔记](https://gbvsqqoj6n.feishu.cn/docx/Ec32d6yqFovM5GxORbAcUJRfnDb)
 - ✍️ 公众号:NUS Coders
   - [东南亚某云服务安全厂商work flow优化（1）](https://mp.weixin.qq.com/s/2xiPWUhrWDuk72CC6e6Xng)
 - ✍️ [牛客网:工大Coders](https://www.nowcoder.com/users/308274097)

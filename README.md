@@ -22,6 +22,6 @@
 - ✍️ [Leetcode: Aloha99](https://leetcode.cn/u/gu-yong-u/) 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/doragd">
+<a href="https://github.com/luqinwen">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=luqinwen&theme=nightowl&show_icons=true" />
 </a>

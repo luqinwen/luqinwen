@@ -14,6 +14,7 @@
 - ✍️ [牛客网:NUS_Coders](https://www.nowcoder.com/users/58988420)
   - [深入理解DNS(2)](https://www.nowcoder.com/issue/tutorial?zhuanlanId=MqBv80&uuid=736827af0e834aa68593876735c8b893)
   - [阿里golang面试复盘](https://www.nowcoder.com/discuss/443739989340426240)
+  - [工作两年、985本社招跳槽看go机会的同学的面试辅导2022.12.23](https://www.nowcoder.com/discuss/452098646138494976)
   - [某大厂3年经验后端社招跳槽的模拟面试复盘[2022.2.1]](https://www.nowcoder.com/discuss/450333649418973184)
 - ✍️ [CSDN:NUS Coders](https://blog.csdn.net/Suppress_warn?spm=1010.2135.3001.5421)
   - [深入浅出IAM(1)](https://blog.csdn.net/Suppress_warn/article/details/128251104?spm=1001.2014.3001.5501)

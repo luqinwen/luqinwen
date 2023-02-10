@@ -12,6 +12,7 @@
 - ✍️ [知识星球《拿个offer》创始人](https://wx.zsxq.com/dweb2/index/group/88885515545252)，专栏《Golang观止》、《网络观止》作者
   - [星球简介](https://mp.weixin.qq.com/s/DpzVwpQDZOCBGF0Hrqfv_Q)
 - ✍️ [牛客网:NUS_Coders](https://www.nowcoder.com/users/58988420)
+  - [golang面试中如何回答epoll的相关问题](https://www.nowcoder.com/discuss/453553008031313920)
   - [深入理解DNS(2)](https://www.nowcoder.com/issue/tutorial?zhuanlanId=MqBv80&uuid=736827af0e834aa68593876735c8b893)
   - [阿里golang面试复盘](https://www.nowcoder.com/discuss/443739989340426240)
   - [工作两年、985本社招跳槽看go机会的面试辅导[2022.12.23]](https://www.nowcoder.com/discuss/452098646138494976)

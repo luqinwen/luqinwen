@@ -20,6 +20,7 @@
 - ✍️ 公众号:NUS Coders
   - [东南亚某云服务安全厂商work flow优化（1）](https://mp.weixin.qq.com/s/2xiPWUhrWDuk72CC6e6Xng)
 - ✍️ [牛客网:NUS_Coders](https://www.nowcoder.com/users/58988420)
+  - [wlb的外企离职随想录](https://www.nowcoder.com/discuss/468815914222305280?sourceSSR=users)
   - [golang面试中如何回答epoll的相关问题](https://www.nowcoder.com/discuss/453553008031313920)
   - [深入理解DNS(2)](https://www.nowcoder.com/issue/tutorial?zhuanlanId=MqBv80&uuid=736827af0e834aa68593876735c8b893)
   - [阿里golang面试复盘](https://www.nowcoder.com/discuss/443739989340426240)

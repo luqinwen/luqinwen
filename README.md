@@ -9,7 +9,7 @@
 - 🔭 985 Bachelor/NUS Master/基础架构工程师(RD and Infrastructure)
 - 🌱 Go/Python/Redis/Docker/K8S/区块链/信息安全/DevOps
 - 📫 How to reach me: [embiid99@foxmail.com](mailto:embiid99@foxmail.com)
-- ✍️ [知识星球《拿个offer》创始人](https://wx.zsxq.com/dweb2/index/group/88885515545252)，专栏《Golang观止》、《网络观止》作者
+- ✍️ [知识星球《拿个offer》创始人](https://wx.zsxq.com/dweb2/index/group/88885515545252)
   - [星球简介](https://mp.weixin.qq.com/s/DpzVwpQDZOCBGF0Hrqfv_Q)
 - ✍️ [CSDN:NUS Coders](https://blog.csdn.net/Suppress_warn?spm=1010.2135.3001.5421)
   - [深入浅出IAM(1)](https://blog.csdn.net/Suppress_warn/article/details/128251104?spm=1001.2014.3001.5501)

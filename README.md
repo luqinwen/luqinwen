@@ -9,7 +9,7 @@
 - 🔭 985 Bachelor/NUS Master/Focus on Live Streaming
 - 🌱 Go/Python/Redis/Docker/K8S/区块链/信息安全/DevOps
 - 📫 How to reach me: [embiid99@foxmail.com](mailto:embiid99@foxmail.com)
-- ✍️ [知识星球《拿个offer》创始人](https://wx.zsxq.com/dweb2/index/group/88885515545252)
+- ✍️ [知识星球《拿个offer》](https://wx.zsxq.com/dweb2/index/group/88885515545252)
   - [星球简介](https://mp.weixin.qq.com/s/DpzVwpQDZOCBGF0Hrqfv_Q)
 - ✍️ [牛客网:NUS_Coders](https://www.nowcoder.com/users/58988420)
   - [wlb的外企离职随想录](https://www.nowcoder.com/discuss/468815914222305280?sourceSSR=users)

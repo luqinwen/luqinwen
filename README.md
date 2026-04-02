@@ -19,8 +19,3 @@
   - [工作两年、985本社招跳槽看go机会的面试辅导[2022.12.23]](https://www.nowcoder.com/discuss/452098646138494976)
   - [某大厂3年经验后端社招跳槽的模拟面试复盘[2023.2.1]](https://www.nowcoder.com/discuss/450333649418973184)
 - ✍️ [Leetcode: Aloha99](https://leetcode.cn/u/gu-yong-u/) 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/luqinwen">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=luqinwen&theme=nightowl&show_icons=true" />
-</a>
